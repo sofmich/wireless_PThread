@@ -1,0 +1,6 @@
+07:23:36 **** Incremental Build of configuration Debug for project MK66_p4_embed2_bueno ****
+make -r -j4 all 
+make: Nothing to be done for 'all'.
+
+07:23:37 Build Finished. 0 errors, 0 warnings. (took 459ms)
+
